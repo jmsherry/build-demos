@@ -1,0 +1,15 @@
+ul {
+  list-style: none;
+  padding: 0;
+}
+ul li {
+  background-color: red;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+ul li a {
+  color: inherit;
+  font-weight: bold;
+  text-decoration: none;
+}
+/*# sourceMappingURL=styles.4309ca2f.css.map */

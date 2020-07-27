@@ -1,0 +1,7 @@
+{
+  "name": "build-techs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "James Sherry <james.m.sherry@googlemail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,1 @@
+{"mappings":"gBAAyBA,EAAAA,ECEnB,QDDJC,QAAQC,IAAR,SAAAC,OAAqBH","sources":["./src/greet.js","./src/index.js"],"sourcesContent":["export default function (name) {\n  console.log(`Hello ${name}`);\n}\n","import greet from \"./greet\";\n\ngreet(\"James\");\n"],"names":["name","console","log","concat"],"version":3,"file":"parcel.HASH_REF_477bb7f15e960ba254b11774698d6b95.js.map"}

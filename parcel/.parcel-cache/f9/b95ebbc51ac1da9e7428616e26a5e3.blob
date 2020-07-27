@@ -1,0 +1,7 @@
+"use strict";
+
+var _greet = _interopRequireDefault(require("./greet"));
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+(0, _greet.default)("James");
